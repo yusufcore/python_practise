@@ -1,4 +1,4 @@
-# Python Practice 🐍
+# Python Practise 🐍
 
 A structured repository for learning and practicing Python from fundamentals to object-oriented programming and data structures.
 
